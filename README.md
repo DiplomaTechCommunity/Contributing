@@ -77,7 +77,9 @@ We'd also love PRs. If you're thinking of a large PR, we advise opening up an is
 ```
    git merge upstream/master
 ```
-
+## Whom to tag for PR reviews
+Repo maintainers will be approving your PRs but make sure you follow all the above-mentioned criteria so that the PRs are approved as soon as possible.
+You can check the repositories readme file wherein you will see the maintainers for the respective repository. You can assign at least 2 of them as reviewer.
 Here are a few things you can do that will increase the likelihood of your pull request being accepted:
 
 - Follow the [style guide](https://gist.github.com/lisawolderiksen/a7b99d94c92c6671181611be1641c733). Any linting errors should be shown when running `npm test`.
